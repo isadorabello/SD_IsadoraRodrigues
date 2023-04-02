@@ -770,3 +770,137 @@
 2023-04-02 10:30:33,394 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-02 10:30:33,403 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-02 10:30:33,409 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:40:48,098 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:40:48,131 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:40:48,146 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:41:58,689 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:41:58,700 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:41:58,702 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:44:02,045 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:44:02,058 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:44:02,063 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:45:20,831 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:45:20,835 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:45:20,838 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:47:08,676 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:47:08,685 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:47:08,687 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:49:12,701 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:49:12,714 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:49:12,718 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:49:26,842 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:49:26,849 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:49:26,854 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:50:32,319 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:50:32,330 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:50:32,339 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:55:03,354 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:55:03,362 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:55:03,366 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:55:05,906 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:55:05,911 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:55:05,914 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:55:48,227 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:55:48,234 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:55:48,238 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:56:15,670 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:56:15,682 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:56:15,687 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:57:05,915 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:57:05,920 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:57:05,924 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:58:07,029 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:58:07,033 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:58:07,036 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 11:58:58,514 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 11:58:58,518 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 11:58:58,522 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:10:52,411 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:10:52,430 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:10:52,437 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:10:53,503 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:10:53,524 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:10:53,527 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:11:22,173 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:11:22,199 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:11:22,203 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:12:09,589 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:12:09,680 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:12:09,686 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:15:51,466 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:15:51,493 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:15:51,497 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:16:14,432 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:16:14,440 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:16:14,442 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:40:52,810 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:40:52,819 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:40:52,823 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:43:49,250 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:43:49,265 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:43:49,275 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:45:23,294 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:45:23,294 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:45:23,299 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:57:06,815 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:57:06,815 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:57:06,819 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:58:13,356 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 12:58:13,365 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 12:58:13,369 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 12:59:32,914 [Worker-59: Launching DataLoader.load] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.2/junit-platform-launcher-1.9.2.jar
+2023-04-02 12:59:33,053 [Worker-59: Launching DataLoader.load] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.2/junit-platform-launcher-1.9.2.jar
+2023-04-02 13:16:01,850 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:16:01,859 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:16:01,863 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:17:03,619 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:17:03,711 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:17:03,716 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:18:13,715 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:18:13,751 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:18:13,756 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:23:37,208 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:23:37,216 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:23:37,220 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:24:41,891 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:24:41,897 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:24:41,900 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:24:45,488 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:24:45,499 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:24:45,503 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:29:15,372 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:29:15,372 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:29:15,376 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:32:22,383 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:32:22,383 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:32:22,386 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:34:29,695 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:34:29,695 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:34:29,698 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:38:14,081 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:38:14,082 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:38:14,085 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:39:40,761 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:39:40,786 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:39:40,790 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:43:17,492 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:43:17,498 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:43:17,502 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:45:47,869 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:45:47,873 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:45:47,877 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:46:36,707 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:46:36,713 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:46:36,716 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:51:11,698 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:51:11,705 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:51:11,708 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:55:38,545 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:55:38,548 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:55:38,581 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:57:14,057 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-02 13:57:14,064 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:57:14,067 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-02 13:59:43,745 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:59:43,745 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-02 13:59:43,749 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources

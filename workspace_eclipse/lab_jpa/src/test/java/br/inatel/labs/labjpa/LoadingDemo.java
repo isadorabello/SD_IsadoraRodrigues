@@ -52,5 +52,22 @@ public class LoadingDemo {
 			e.printStackTrace();
 		}
 	}
+	
+	@Test
+	public void demoPlanejamentoConsulta() {
+		try {
+			
+			// O método chamado na service retorna uma instância que tem contexto de persistência
+			NotaCompra nota = service.buscarPeloIdNotaCompraComListaItem(1L);
+			
+			int tamanho = nota.getListaNotaCompraItem().size();
+			
+			System.out.println("O tamanho da lista da nota compra é" + tamanho);
+			System.out.println("Houve carregamento Lazy corretamente");
+
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
 
 }

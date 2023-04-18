@@ -52,4 +52,10 @@ public class NotaCompraService {
 	public void remover(NotaCompraItem nci) {
 		em.remove(em.merge(nci));
 	}
+	
+	public NotaCompra buscarPeloIdNotaCompraComListaItem(Long id) {
+		NotaCompra nota = em.find(NotaCompra.class, id);
+		nota.getListaNotaCompraItem().size();
+		return nota;
+	}
 }

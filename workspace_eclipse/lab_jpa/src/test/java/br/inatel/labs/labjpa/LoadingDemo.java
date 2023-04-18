@@ -1,11 +1,13 @@
 package br.inatel.labs.labjpa;
 
+import java.math.BigDecimal;
 import java.time.LocalDate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import br.inatel.labs.labjpa.entity.NotaCompra;
 import br.inatel.labs.labjpa.entity.NotaCompraItem;
 import br.inatel.labs.labjpa.service.NotaCompraService;
 
@@ -30,6 +32,23 @@ public class LoadingDemo {
 			System.out.println("Houve carregamento Eager");
 			
 		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	@Test
+	public void demoLazyLoading() {
+		try {
+			
+			NotaCompra nota = service.buscarPeloIdNotaCompra(1L);
+			
+			int tamanho = nota.getListaNotaCompraItem().size();
+			
+			System.out.println("O tamanho da lista da nota compra é" + tamanho);			
+		}catch(Exception e) {
+			// é necessário que o relacionamento/canal com o banco esteja aberto, ou seja, que a instância está em estado MANAGED
+			// em qualquer outro estado, não há contexto de persistência e, portanto, o proxy não conseguirá trazer os dados do banco
+			System.out.println("O Carregamento foi Lazy, por isso lançou a exception");
 			e.printStackTrace();
 		}
 	}

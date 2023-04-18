@@ -910,3 +910,16 @@
 2023-04-02 14:08:31,442 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-02 14:08:31,443 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-02 14:08:31,447 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-15 17:26:56,714 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 17:50:42,625 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:50:42,669 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:50:42,673 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-15 17:59:17,155 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:59:17,156 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:59:17,161 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-15 18:14:55,465 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:14:55,465 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:14:55,470 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-15 19:38:44,441 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:38:44,441 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:38:44,448 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources

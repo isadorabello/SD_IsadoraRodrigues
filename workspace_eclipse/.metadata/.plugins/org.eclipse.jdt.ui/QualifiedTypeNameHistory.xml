@@ -16,14 +16,16 @@
     <fullyQualifiedTypeName name="jakarta.persistence.PersistenceContext"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.service.ProdutoService"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.entity.Produto"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.service.FornecedorService"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.entity.Fornecedor"/>
-    <fullyQualifiedTypeName name="br.inatel.labs.labjpa.service.NotaCompraService"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.entity.NotaCompra"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="br.inatel.labs.labjpa.entity.NotaCompraItem"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+    <fullyQualifiedTypeName name="br.inatel.labs.labjpa.service.NotaCompraService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
 </qualifiedTypeNameHistroy>

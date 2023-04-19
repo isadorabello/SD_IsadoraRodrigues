@@ -21,5 +21,13 @@ public class TotalCompradoPorFornecedorDTO {
 		return totalComprado;
 	}
 
+	@Override
+	public String toString() {
+		return "TotalCompradoPorFornecedorDTO [fornecedorRazaoSocial=" + fornecedorRazaoSocial + ", totalComprado="
+				+ totalComprado + "]";
+	}
+	
+	
+
 
 }

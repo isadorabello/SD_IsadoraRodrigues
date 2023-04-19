@@ -17,12 +17,12 @@ public class RelatorioService {
 	private EntityManager em;
 	
 	public List<TotalCompradoPorFornecedorDTO> pesquisarTotalCompradoPorFornecedor(){
-		String query = "select new br.inatel.labs.labjpa.dto.TotalCompradoPorFornecedorDTO"
-				+ "(f.razaoSocial, sum(i.quantidade * i.valorCompraProduto))"
-				+ "from NotaCompraItem i"
-				+ "join i.notaCompra n"
-				+ "join n.fornecedor f"
-				+ "group by f.razaoSocial";
+		String query = "select new br.inatel.labs.labjpa.dto.TotalCompradoPorFornecedorDTO "
+				+ " (f.razaoSocial, sum(i.quantidade * i.valorCompraProduto)) "
+				+ " from NotaCompraItem i "
+				+ " join i.notaCompra n "
+				+ " join n.fornecedor f "
+				+ " group by f.razaoSocial ";
 		
 		return em.createQuery(query, TotalCompradoPorFornecedorDTO.class).getResultList();
 	}

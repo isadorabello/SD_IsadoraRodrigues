@@ -923,3 +923,73 @@
 2023-04-15 19:38:44,441 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-15 19:38:44,441 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-15 19:38:44,448 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 18:24:48,189 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-18 18:48:09,207 [Worker-8: Launching LoadingDemo.demoLazyLoading] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 18:48:09,239 [Worker-8: Launching LoadingDemo.demoLazyLoading] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 18:48:09,260 [Worker-8: Launching LoadingDemo.demoLazyLoading] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 18:54:09,666 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 18:54:09,667 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 18:54:09,672 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 19:42:00,819 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 19:42:00,911 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 19:42:00,917 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 19:49:40,628 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 19:49:40,629 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 19:49:40,634 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 19:58:19,633 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 19:58:19,634 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 19:58:19,638 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:00:29,346 [Worker-8: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.7/spring-aop-6.0.7-sources.jar
+2023-04-18 20:00:29,478 [Worker-8: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.7/spring-aop-6.0.7-sources.jar
+2023-04-18 20:00:32,670 [Worker-35: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.7/spring-tx-6.0.7-sources.jar
+2023-04-18 20:00:32,747 [Worker-35: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.7/spring-tx-6.0.7-sources.jar
+2023-04-18 20:01:03,973 [Worker-36: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2-sources.jar
+2023-04-18 20:01:04,034 [Worker-36: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2-sources.jar
+2023-04-18 20:01:04,314 [Worker-36: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2-sources.jar
+2023-04-18 20:01:04,372 [Worker-36: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2-sources.jar
+2023-04-18 20:01:10,906 [Worker-33: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2-sources.jar
+2023-04-18 20:01:10,975 [Worker-33: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2-sources.jar
+2023-04-18 20:03:43,871 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:03:43,871 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:03:43,876 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:18:47,369 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:18:47,369 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:18:47,375 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:19:35,056 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 20:19:35,067 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:19:35,076 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:20:04,160 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 20:20:04,167 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:20:04,172 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:23:23,083 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 20:23:23,090 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:23:23,101 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 20:24:10,826 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 20:24:10,917 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 20:24:10,945 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:34:14,481 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 21:34:14,511 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:34:14,516 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:40:16,415 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:40:16,415 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:40:16,420 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:42:44,580 [Worker-59: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.2/junit-platform-launcher-1.9.2-sources.jar
+2023-04-18 21:42:44,732 [Worker-59: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.9.2/junit-platform-launcher-1.9.2-sources.jar
+2023-04-18 21:44:03,291 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 21:44:03,311 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:44:03,314 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:45:25,083 [Worker-61: Launching LabJpaApplicationTests.RelatorioServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:45:25,084 [Worker-61: Launching LabJpaApplicationTests.RelatorioServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:45:25,087 [Worker-61: Launching LabJpaApplicationTests.RelatorioServiceTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:50:11,054 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 21:50:11,061 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:50:11,064 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:54:01,986 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 21:54:02,034 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:54:02,038 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 21:54:08,029 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-18 21:54:08,085 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 21:54:08,090 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources
+2023-04-18 22:17:34,867 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 22:17:34,867 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-18 22:17:34,872 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Downloads\2023-1 Inatel\C216\LABS_SD\SD_IsadoraRodrigues\workspace_eclipse\lab_jpa\src\test\resources

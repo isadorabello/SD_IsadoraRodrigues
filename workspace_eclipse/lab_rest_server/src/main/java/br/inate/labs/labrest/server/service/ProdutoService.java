@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.Random;
 
 import org.springframework.stereotype.Service;
 
@@ -33,5 +34,12 @@ public class ProdutoService {
 	//teste o conteúdo do objeto antes de acessar o conteúdo propriamente dito, evitando o NullPointerException
 	public Optional<Produto> findById(Long id){
 		return produtos.stream().filter(p -> p.getId() == id).findFirst();
+	}
+
+	public Produto create(Produto p) {
+		long id = new Random().nextLong();
+		p.setId(id);
+		produtos.add(p);
+		return p;
 	}
 }

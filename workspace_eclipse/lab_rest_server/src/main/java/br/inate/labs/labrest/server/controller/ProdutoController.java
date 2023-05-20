@@ -8,6 +8,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
@@ -23,7 +25,7 @@ public class ProdutoController {
 	private ProdutoService service;
 	
 	@GetMapping
-	public List<Produto> findAll() {
+	public List<Produto> getProduto() {
 		return service.findAll();
 	}
 	
@@ -47,5 +49,11 @@ public class ProdutoController {
 			String msg = String.format("Nenhum produto encontrado com id [%s]", produtoId);
 			throw new ResponseStatusException(HttpStatus.NOT_FOUND, msg);
 		});
+	}
+	
+	@PostMapping
+	public Produto postProduto(@RequestBody Produto p) {
+		Produto produtoCriado = service.create(p);
+		return produtoCriado;
 	}
 }

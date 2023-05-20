@@ -19,6 +19,8 @@ public class WebClientGetFluxProduto {
 		
 		fluxProduto.subscribe(p -> listaProduto.add(p));
 		
+		fluxProduto.blockLast(); // é bloqueado a continuação do código até que o último "bloquinho" seja carregado/chegue
+		
 		System.out.println("Lista de produtos: ");
 		System.out.println(listaProduto);
 	}

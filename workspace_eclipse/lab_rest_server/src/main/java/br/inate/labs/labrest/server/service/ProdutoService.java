@@ -47,4 +47,8 @@ public class ProdutoService {
 		produtos.remove(p);
 		produtos.add(p);
 	}
+	
+	public void remove(Produto p) {
+		produtos.remove(p);
+	}
 }

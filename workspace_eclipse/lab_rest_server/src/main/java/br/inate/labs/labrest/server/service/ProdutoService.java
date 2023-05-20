@@ -3,6 +3,7 @@ package br.inate.labs.labrest.server.service;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
@@ -26,5 +27,11 @@ public class ProdutoService {
 	
 	public List<Produto> findAll(){
 		return this.produtos;
+	}
+	
+	//O que é um optional? Recurso do JAVA, um objeto que embrulha outro objeto, faz com que o dev 
+	//teste o conteúdo do objeto antes de acessar o conteúdo propriamente dito, evitando o NullPointerException
+	public Optional<Produto> findById(Long id){
+		return produtos.stream().filter(p -> p.getId() == id).findFirst();
 	}
 }

@@ -3,6 +3,7 @@ package br.inate.labs.labrest.server.service;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.Optional;
 import java.util.Random;
 
@@ -50,5 +51,14 @@ public class ProdutoService {
 	
 	public void remove(Produto p) {
 		produtos.remove(p);
+	}
+
+	public Produto findProdutoByDescricao(String descricao) {
+		if(Objects.isNull(descricao) || descricao .isBlank()) {
+			return (Produto) List.of();
+		}
+		
+		return (Produto) this.produtos.stream().filter(p -> p.getDescricao().trim().
+				toLowerCase().contains(descricao.trim().toLowerCase())).toList();
 	}
 }

@@ -27,7 +27,8 @@ public class ProdutoController {
 		return service.findAll();
 	}
 	
-	@GetMapping("/{id}") // formato de template
+	/*
+	 @GetMapping("/{id}") // formato de template
 	public Produto getProdutoById(@PathVariable("id") Long produtoId) {
 		Optional<Produto> opProduto = service.findById(produtoId);
 		
@@ -37,5 +38,14 @@ public class ProdutoController {
 		
 		String msg = String.format("Nenhum produto encontrado com id [%s]", produtoId);
 		throw new ResponseStatusException(HttpStatus.NOT_FOUND, msg);
+	}
+	 */
+	
+	@GetMapping("/{id}") // formato de template
+	public Produto getProdutoById(@PathVariable("id") Long produtoId) {
+		return service.findById(produtoId).orElseThrow(() -> {
+			String msg = String.format("Nenhum produto encontrado com id [%s]", produtoId);
+			throw new ResponseStatusException(HttpStatus.NOT_FOUND, msg);
+		});
 	}
 }

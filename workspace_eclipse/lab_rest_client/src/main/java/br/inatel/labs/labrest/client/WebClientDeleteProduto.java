@@ -8,13 +8,18 @@ public class WebClientDeleteProduto {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ResponseEntity<Void> responseEntity = WebClient.create("http://localhost:8080")
-				.delete().uri("/produto/3").retrieve().toBodilessEntity().block();
-		
-		HttpStatusCode statusCode = responseEntity.getStatusCode();
-		
-		System.out.println("Produto removido: ");
-		System.out.println("Status da resposta: " + statusCode);
+		try {
+			ResponseEntity<Void> responseEntity = WebClient.create("http://localhost:8080")
+					.delete().uri("/produto/3").retrieve().toBodilessEntity().block();
+			
+			HttpStatusCode statusCode = responseEntity.getStatusCode();
+			
+			System.out.println("Produto removido: ");
+			System.out.println("Status da resposta: " + statusCode);
+		}catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
 	}
 
 }

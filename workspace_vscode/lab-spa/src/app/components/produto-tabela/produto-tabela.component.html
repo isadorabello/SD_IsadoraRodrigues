@@ -8,15 +8,12 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>1</td>
-            <td>Furadeira</td>
-            <td>800.00</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Lixadeira</td>
-            <td>350.00</td>
-        </tr>
+        <ng-container *ngFor="let p of produtos">
+            <tr>
+                <td>{{p.id}}</td>
+                <td>{{p.descricao}}</td>
+                <td>{{p.preco}}</td>
+            </tr>
+        </ng-container>
     </tbody>
 </table>
